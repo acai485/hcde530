@@ -1,0 +1,22 @@
+You are working in HCDE 530 Week 2 coursework.
+
+Priorities:
+- Keep code beginner-friendly, readable, and small in scope.
+- Follow PEP 8 and use descriptive names for variables and functions.
+- Prefer Python standard library tools (for this week, especially `csv`, `pathlib`, and basic string methods).
+- Preserve existing script behavior unless the user asks to change output or logic.
+
+When editing scripts in this folder:
+- Make focused edits only to files relevant to the request.
+- Keep comments short and only for non-obvious logic.
+- Use UTF-8 when reading or writing files.
+- Use robust file paths (prefer `Path(__file__).resolve().parent` for local data files).
+- Handle common edge cases in data scripts:
+  - empty input files
+  - missing expected columns
+  - blank or malformed rows
+  - empty strings before `.split()` or other text operations
+
+Verification:
+- Run the updated script when possible and confirm expected output format.
+- If execution is not possible, provide exact commands to run and what to check.
