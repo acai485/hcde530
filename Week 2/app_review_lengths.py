@@ -9,6 +9,7 @@ word_counts = []
 print(f"{'Review ID':<10} {'Words':<6} Review")
 print("-" * 72)
 
+#
 with open(csv_path, newline="", encoding="utf-8") as file:
     reader = csv.DictReader(file)
     for row in reader:
