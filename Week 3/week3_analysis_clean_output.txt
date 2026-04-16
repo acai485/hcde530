@@ -1,0 +1,15 @@
+Responses by role:
+  : 1
+  Content Strategist: 6
+  Product Manager: 6
+  Ux Designer: 10
+  Ux Researcher: 12
+
+Average years of experience: 7.1
+
+Top 5 satisfaction scores:
+  Priya Nair: 5
+  Fatima Al-Rashid: 5
+  Lena Kowalski: 5
+  Noel Adeyemi: 5
+  Marco Di Luca: 5
