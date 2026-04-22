@@ -1,0 +1,17 @@
+section,name,value
+role_distribution,(blank),1
+role_distribution,Content Strategist,6
+role_distribution,Product Manager,6
+role_distribution,Ux Designer,10
+role_distribution,Ux Researcher,12
+summary,average_years_experience,7.1
+top_satisfaction,Priya Nair,5
+top_satisfaction,Fatima Al-Rashid,5
+top_satisfaction,Lena Kowalski,5
+top_satisfaction,Noel Adeyemi,5
+top_satisfaction,Marco Di Luca,5
+avg_satisfaction_by_role,(blank),4.00
+avg_satisfaction_by_role,Content Strategist,4.17
+avg_satisfaction_by_role,Product Manager,2.00
+avg_satisfaction_by_role,Ux Designer,3.40
+avg_satisfaction_by_role,Ux Researcher,3.83
