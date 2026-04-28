@@ -1,0 +1,11 @@
+id,app,category,rating,review,date,helpful_votes,verified_purchase
+462,Maze,usability testing,5,Works offline and syncs when I get back to WiFi — essential for fieldwork.,2024-11-29,0,True
+125,Maze,usability testing,4,The highlight reel feature is genuinely useful for presentations. The voice memo feature captures context I'd otherwise lose.,2024-11-29,11,True
+224,Fieldkit,field research,2,No built-in way to generate a structured debrief template from tags.,2024-11-27,33,True
+14,Miro,collaborative whiteboard,4,One-click export to Notion is a feature I use every week. I was running my first study within 20 minutes of signing up.,2024-11-27,46,True
+13,Fieldkit,field research,3,Solid core product with rough edges in the advanced workflows.,2024-11-27,27,True
+360,Dovetail,research repository,4,Template library covers most of my research formats out of the box. The guest access feature is perfect for external stakeholders.,2024-11-26,6,True
+214,Fieldkit,field research,2,Documentation for advanced filtering could be much clearer.,2024-11-26,10,False
+33,Lookback,user research,2,Loading large projects takes noticeably longer than it used to.,2024-11-22,15,True
+307,Maze,usability testing,4,My whole team can comment on the same session without chaos.,2024-11-21,27,False
+492,Miro,collaborative whiteboard,5,Screener templates saved me from writing survey questions from scratch. The session recording is crisp and easy to scrub through.,2024-11-18,5,False
