@@ -1,0 +1,51 @@
+TMDB Report
+===========
+
+Top 10 Trending Movies (Today)
+-------------------------------
+01. They Will Kill You (release date: 2026-03-25)
+02. Apex (release date: 2026-04-24)
+03. Hoppers (release date: 2026-03-04)
+04. Michael (release date: 2026-04-22)
+05. The Devil Wears Prada 2 (release date: 2026-04-29)
+06. Forbidden Fruits (release date: 2026-03-26)
+07. The Super Mario Galaxy Movie (release date: 2026-04-01)
+08. Project Hail Mary (release date: 2026-03-15)
+09. Mortal Kombat II (release date: 2026-05-06)
+10. GOAT (release date: 2026-02-11)
+
+Top 10 Trending Shows (Today)
+------------------------------
+01. Euphoria (first air date: 2019-06-16)
+02. FROM (first air date: 2022-02-20)
+03. The Boys (first air date: 2019-07-25)
+04. Secret Service (first air date: 2026-04-27)
+05. One Piece (first air date: 1999-10-20)
+06. INVINCIBLE (first air date: 2021-03-25)
+07. Straight to Hell (first air date: 2026-04-27)
+08. Star Wars: Maul - Shadow Lord (first air date: 2026-04-06)
+09. If Wishes Could Kill (first air date: 2026-04-24)
+10. The Rookie (first air date: 2018-10-16)
+
+Top 20 Highest-Rated TV Shows
+-----------------------------
+01. Breaking Bad (rating: 8.942, first air date: 2008-01-20)
+02. Frieren: Beyond Journey's End (rating: 8.8, first air date: 2023-09-29)
+03. Reply 1988 (rating: 8.785, first air date: 2015-11-06)
+04. Avatar: The Last Airbender (rating: 8.756, first air date: 2005-02-21)
+05. Arcane (rating: 8.755, first air date: 2021-11-06)
+06. One Piece (rating: 8.725, first air date: 1999-10-20)
+07. Heated Rivalry (rating: 8.726, first air date: 2025-11-28)
+08. The Pitt (rating: 8.709, first air date: 2025-01-09)
+09. Chernobyl (rating: 8.7, first air date: 2019-05-06)
+10. Fullmetal Alchemist: Brotherhood (rating: 8.7, first air date: 2009-04-05)
+11. Better Call Saul (rating: 8.704, first air date: 2015-02-08)
+12. When Life Gives You Tangerines (rating: 8.69, first air date: 2025-03-07)
+13. The Chosen (rating: 8.679, first air date: 2019-04-21)
+14. Attack on Titan (rating: 8.7, first air date: 2013-04-07)
+15. Adventure Time: Fionna and Cake (rating: 8.677, first air date: 2023-08-31)
+16. Rick and Morty (rating: 8.7, first air date: 2013-12-02)
+17. Hunter x Hunter (rating: 8.7, first air date: 2011-10-02)
+18. The Owl House (rating: 8.665, first air date: 2020-01-10)
+19. The Boy's Word: Blood on the Asphalt (rating: 8.7, first air date: 2023-11-09)
+20. The Sopranos (rating: 8.664, first air date: 1999-01-10)
