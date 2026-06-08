@@ -1,0 +1,9 @@
+### C8 — Building and Deploying a Complete Tool
+
+My MP2 is a webapp that I created to help early career UX professionals prepare for interviews. I created the app using Lovable, after a lot of trial and error with Bolt (explained in next competency claim). The app takes user input about their past experiences and job application details, combines it with data scraped from the web using the Firecrawl API about similar interview experiences. The main issue I ran into was that Lovable kept making small hallucinations and exaggerations. I had to prompt multiple times in different ways to ensure that outputs only contained real information. If I were to do this project again, I would include strict instructions to not make up any information within the rules file that I gave Lovable in the beginning, which would have hopefully lessened the amount of times I had to prompt it later on.
+
+
+
+### C7 — Critical Evaluation and Professional Judgment
+
+When I first started working on this project in Bolt, it kept trying to suggest I use a Claude API or similar LLM access API to supply information for my tool. I tried this out but was immediately suspicious of the responses that were being produced so I started to explore webscraping APIs to gather real data. I decided to pivot to using Lovable at this point because of it's easy access to the Firecrawl API. But even though this decision started producing better results, Lovable wasn't perfect. It cited and used real sources, but still hallucinated in the form of exaggerations and other minor explanations. I continued to iterate until none of the information was stretched or made up. This was very important to me because only accurate information about a company and their interview style will actually be helpful to interviewees.
